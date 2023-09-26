@@ -66,28 +66,6 @@
 
 <br>
 
-<h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
-
-<details>
-<summary><b>🔥 Estatísticas Sequenciais</b></summary>
-<br>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
-</p>
-</details>
-  
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
-
-<details>
-<summary><b>⚡ Status Públicos do Github</b></summary>
-<br>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=bush1D3v&show_icons=true&theme=radical&hide"/>
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=radical&hide"/>
-</p>
-</details>
 
 <br>
 
