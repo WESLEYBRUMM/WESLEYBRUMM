@@ -1,61 +1,23 @@
-<h1>WESLEY BRUM</h1>
+<!-- Cabeçalho -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900cc&height=120&section=header"/>
 
-<p align="center">
-Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
-</p>
+<!-- Título -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wesley+Brum;I'm+18+years+old;I'm+from+Brazil;I'm+majoring+in+Computer+Science+at+UNIOESTE;Be+Welcome!)](https://git.io/typing-svg)
 
-##
-
-<br>
-
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
 
 <br>
 
 
 
-- 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
+- 🔭 **Desenvolvedor Fullstack**.
 
-- 🌱 Atualmente estou aprendendo **React**.
+- 📫 Como me contatar: **wesleybrum12345@gmail.com**.
 
-- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
-
-- 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
-
-- 💬 Me pergunte sobre **JavaScript**.
-
-- 🤝 Estou procurando ajuda para aprender sobre **Sites Acessíveis**.
 
 <br>
 <br>
 
-
-## 🎯 Metas Futuras
-
-- 🧠 Estudar os fundamentos de um **Desenvolvedor Web FullStack de Sucesso**.
-- 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
-- 🤖 Construir um projeto do zero que influencie mais pessoas para o mundo da tecnologia, da mesma forma como eu fui.
-
-## 📈 Conquistas
-
-- 🎉 7 Meses de **Estudos Focados**, sem parar um dia.
-- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
-- 🏆 Fui selecionado para participar do **Bootcamp Santander**, e passei no processo seletivo de uma **Bolsa do Ifood**.
-
-<h2 align="center">📫 Conecte-se Comigo</h2>
-
-<div align = "center">
-
-<a href="https://www.linkedin.com/in/vj021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-[![Gmail: Victor Navarro](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/bush1D3v)](https://www.frontendmentor.io/profile/bush1D3v)&nbsp;
-<a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
- <a href="https://discord.gg/f65nxQt7UV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
-  
-</div>
 
 <div align = "center">
 
@@ -128,8 +90,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 </p>
 </details>
 
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=bush1D3v&repo=bush1D3v&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Victor" height="40px" />
-</div>
+<br>
 
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900cc&height=120&section=footer"/>
+
