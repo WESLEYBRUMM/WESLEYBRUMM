@@ -21,10 +21,10 @@
 <summary><b>🧰 Backend</b></summary>
 <br>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;(https://github.com/wesleybrumm)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;(https://github.com/wesleybrumm)
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/wesleybrumm)
-![ADVPL](https://img.shields.io/badge/advpl-black?style=for-the-badge&logo=advpl&logoColor=black)
+![ADVPL](https://img.shields.io/badge/advpl-black?style=for-the-badge&logo=advpl&logoColor=black)(https://github.com/wesleybrumm)
 
 </details>
 
