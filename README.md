@@ -6,7 +6,7 @@
 <br>
 - 🔭 **Desenvolvedor Fullstack**.
 
-- 📫 Como me contatar: **wesleybrum12345@gmail.com**.
+- 📫 Como me contatar: *wesleybrum12345@gmail.com*.
 
 
 <br>
