@@ -2,8 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900cc&height=120&section=header"/>
 
 <!-- Título -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wesley+Brum;I'm+18+years+old;I'm+from+Brazil](https://git.io/typing-svg)
-
 
 
 <br>
